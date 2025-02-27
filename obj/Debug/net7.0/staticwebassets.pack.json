@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\css\\admin.css.map",
+      "PackagePath": "staticwebassets\\css\\admin.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\css\\home.css.map",
+      "PackagePath": "staticwebassets\\css\\home.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\css\\layout.css",
+      "PackagePath": "staticwebassets\\css\\layout.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\css\\layout.css.map",
+      "PackagePath": "staticwebassets\\css\\layout.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\css\\review.css",
+      "PackagePath": "staticwebassets\\css\\review.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\css\\review.css.map",
+      "PackagePath": "staticwebassets\\css\\review.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\images\\.gitignore",
+      "PackagePath": "staticwebassets\\images\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\js\\admin\\layout.js",
+      "PackagePath": "staticwebassets\\js\\admin\\layout.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\js\\admin\\product.js",
+      "PackagePath": "staticwebassets\\js\\admin\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\js\\admin\\review.js",
+      "PackagePath": "staticwebassets\\js\\admin\\review.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\js\\api-request.js",
+      "PackagePath": "staticwebassets\\js\\api-request.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\js\\form-request.js",
+      "PackagePath": "staticwebassets\\js\\form-request.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\js\\home.js",
+      "PackagePath": "staticwebassets\\js\\home.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\js\\layout.js",
+      "PackagePath": "staticwebassets\\js\\layout.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\js\\loader.js",
+      "PackagePath": "staticwebassets\\js\\loader.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\js\\modal.js",
+      "PackagePath": "staticwebassets\\js\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\js\\phone-mask.js",
+      "PackagePath": "staticwebassets\\js\\phone-mask.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\RiderProjects\\RSiteTemplate\\AIIntegrations\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AIIntegrations.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AIIntegrations.props",
+      "PackagePath": "build\\AIIntegrations.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AIIntegrations.props",
+      "PackagePath": "buildMultiTargeting\\AIIntegrations.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AIIntegrations.props",
+      "PackagePath": "buildTransitive\\AIIntegrations.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
