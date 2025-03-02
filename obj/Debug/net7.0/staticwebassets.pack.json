@@ -1,91 +1,91 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\css\\admin.css",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\css\\admin.css",
       "PackagePath": "staticwebassets\\css\\admin.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\css\\admin.css.map",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\css\\admin.css.map",
       "PackagePath": "staticwebassets\\css\\admin.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\css\\home.css",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\css\\home.css",
       "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\css\\home.css.map",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\css\\home.css.map",
       "PackagePath": "staticwebassets\\css\\home.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\css\\layout.css",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\css\\layout.css",
       "PackagePath": "staticwebassets\\css\\layout.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\css\\layout.css.map",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\css\\layout.css.map",
       "PackagePath": "staticwebassets\\css\\layout.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\css\\review.css",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\css\\review.css",
       "PackagePath": "staticwebassets\\css\\review.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\css\\review.css.map",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\css\\review.css.map",
       "PackagePath": "staticwebassets\\css\\review.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\images\\.gitignore",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\images\\.gitignore",
       "PackagePath": "staticwebassets\\images\\.gitignore"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\js\\admin\\layout.js",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\js\\admin\\layout.js",
       "PackagePath": "staticwebassets\\js\\admin\\layout.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\js\\admin\\product.js",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\js\\admin\\product.js",
       "PackagePath": "staticwebassets\\js\\admin\\product.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\js\\admin\\review.js",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\js\\admin\\review.js",
       "PackagePath": "staticwebassets\\js\\admin\\review.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\js\\api-request.js",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\js\\api-request.js",
       "PackagePath": "staticwebassets\\js\\api-request.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\js\\form-request.js",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\js\\form-request.js",
       "PackagePath": "staticwebassets\\js\\form-request.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\js\\helpers.js",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\js\\helpers.js",
       "PackagePath": "staticwebassets\\js\\helpers.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\js\\home.js",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\js\\home.js",
       "PackagePath": "staticwebassets\\js\\home.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\js\\layout.js",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\js\\layout.js",
       "PackagePath": "staticwebassets\\js\\layout.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\js\\loader.js",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\js\\loader.js",
       "PackagePath": "staticwebassets\\js\\loader.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\js\\modal.js",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\js\\modal.js",
       "PackagePath": "staticwebassets\\js\\modal.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\js\\phone-mask.js",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\js\\phone-mask.js",
       "PackagePath": "staticwebassets\\js\\phone-mask.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\RiderProjects\\AIIntegrations\\AIIntegrations\\wwwroot\\js\\user.js",
+      "Id": "C:\\Users\\Roman\\RiderProjects\\AIIntegrations\\wwwroot\\js\\user.js",
       "PackagePath": "staticwebassets\\js\\user.js"
     },
     {
